@@ -65,3 +65,10 @@ Caused by: java.lang.NullPointerException: null
         at org.graalvm.polyglot.Engine$ImplHolder.<clinit>(Engine.java:186) ~[polyglot-23.1.0.jar!/:na]
         ... 37 common frames omitted
 ```
+
+# Java version
+```
+java version "21" 2023-09-19
+Java(TM) SE Runtime Environment Oracle GraalVM 21+35.1 (build 21+35-jvmci-23.1-b15)
+Java HotSpot(TM) 64-Bit Server VM Oracle GraalVM 21+35.1 (build 21+35-jvmci-23.1-b15, mixed mode, sharing)
+```
